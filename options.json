@@ -1,0 +1,22 @@
+{
+  "musics": [
+    {
+      "salami_id": "1607",
+      "title": "Radio Ga Ga",
+      "artist": "Queen",
+      "path": "audio/Radio Ga Ga (Remastered 2011).mp3"
+    },
+    {
+      "salami_id": "1614",
+      "title": "Beat - It",
+      "artist": "Michael Jackson",
+      "path": "audio/16 - Michael Jackson - The Essential CD1 - Beat It.mp3"
+    },
+    {
+      "salami_id": "1606",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "path": "audio/Queen - We Are The Champions - Greatest Hits I - II - III Platinum Collection.mp3"
+    }
+  ]
+}
